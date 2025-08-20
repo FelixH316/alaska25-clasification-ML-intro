@@ -12,3 +12,9 @@
 
 - Aula 3
     https://github.com/alura-es-cursos/2160-aprendiendo-a-clasificar-datos-con-ml/blob/aula-3/Clasificacion_primeros_pasos.ipynb
+
+- Aula 4
+    https://github.com/alura-es-cursos/2160-aprendiendo-a-clasificar-datos-con-ml/blob/aula-4/Clasificacion_primeros_pasos.ipynb
+
+- Proyecto final
+    https://github.com/alura-es-cursos/2160-aprendiendo-a-clasificar-datos-con-ml/blob/proyecto-final/Clasificacion_primeros_pasos.ipynb

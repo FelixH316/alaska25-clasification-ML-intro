@@ -155,7 +155,7 @@ Para comprender si el modelo realmente está aprendiendo de los datos,
 """
 from sklearn.model_selection import train_test_split
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.25,
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25,
                                                     random_state=5,
                                                     stratify=y)
 
@@ -208,6 +208,7 @@ modelo_arbol.score(X_test, y_test)
 from sklearn.tree import plot_tree
 import matplotlib.pyplot as plt
 
+X_train
 valores_columnas = ["casado (a)",
                     "divorciado (a)",
                     "soltero (a)",
